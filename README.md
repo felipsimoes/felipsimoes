@@ -1,5 +1,11 @@
-### Hi there 👋
+### Saudações 👋
 
+Me chamo Felipe Simões, sou engenheiro de qualidade e desenvolvedor. Amo minha família, meus amigos e meus quadrinhos!
+
+Sou co-autor do [V de Vegança](https://www.vdeveganca.com.br), uma plataforma para ajudar pessoas veganas ou não a saberem o que tem nos produtos que consumimos.
+
+
+![Felipe Simoes's github stats](https://github-readme-stats.vercel.app/api?username=felipsimoes&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AFF)
 <!--
 **felipsimoes/felipsimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
